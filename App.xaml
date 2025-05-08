@@ -1,0 +1,13 @@
+﻿<Application x:Class="Hanged_man.App"  
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"  
+            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"  
+            StartupUri="MainWindow.xaml">  
+   <Application.Resources>  
+       <!-- Define the ShadowEffect resource to fix XDG-0001 -->  
+       <DropShadowEffect x:Key="ShadowEffect"  
+                         Color="Black"  
+                         BlurRadius="10"  
+                         ShadowDepth="5"  
+                         Opacity="0.5" />  
+   </Application.Resources>  
+</Application>
