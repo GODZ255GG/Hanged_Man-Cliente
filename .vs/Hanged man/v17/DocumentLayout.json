@@ -1,68 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|c:\\users\\reneu\\documents\\github\\hanged man\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|c:\\users\\reneu\\documents\\github\\hanged man\\vistas\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|solutionrelative:vistas\\register.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|c:\\users\\reneu\\documents\\github\\hanged man\\vistas\\profileandstats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{4B9A1054-7BBD-4641-9493-5DCAFC62527D}|Hanged man.csproj|solutionrelative:vistas\\profileandstats.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\MainWindow.xaml",
-              "RelativeToolTip": "MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-08T21:23:51.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Register.xaml",
-              "DocumentMoniker": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Vistas\\Register.xaml",
-              "RelativeDocumentMoniker": "Vistas\\Register.xaml",
-              "ToolTip": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Vistas\\Register.xaml",
-              "RelativeToolTip": "Vistas\\Register.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-08T21:23:28.146Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProfileAndStats.xaml",
-              "DocumentMoniker": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Vistas\\ProfileAndStats.xaml",
-              "RelativeDocumentMoniker": "Vistas\\ProfileAndStats.xaml",
-              "ToolTip": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Vistas\\ProfileAndStats.xaml",
-              "RelativeToolTip": "Vistas\\ProfileAndStats.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-08T21:23:02.266Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

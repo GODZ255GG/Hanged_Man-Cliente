@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Hanged man.csproj": {}
+    "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\Hanged man.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Hanged man.csproj": {
+    "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\Hanged man.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Hanged man.csproj",
+        "projectUniqueName": "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\Hanged man.csproj",
         "projectName": "Hanged man",
-        "projectPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\Hanged man.csproj",
+        "projectPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\Hanged man.csproj",
         "packagesPath": "C:\\Users\\ReneU\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged man\\obj\\",
+        "outputPath": "C:\\Users\\ReneU\\Documents\\Github\\Hanged_Man-Cliente\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hanged man")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e9a2810232d1e3065d808e4def85dd3853884e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hanged man")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hanged man")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
